@@ -1,2 +1,4 @@
 # Developement
-This is a small guide for our lesson Developement 1.
+This is a small guide for Development. 
+
+Hogeschool Rotterdam - Informatica.
